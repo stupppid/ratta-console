@@ -1,6 +1,6 @@
 {
   "name": "ratta-console",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "基于ratta实现控制台",
   "main": "src/index.ts",
   "scripts": {
