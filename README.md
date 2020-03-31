@@ -7,3 +7,13 @@ it's just a simple system, don't be serious  :）
 
 ## 示例
 [ratta-console](https://stupppid.github.io/dist/#ratta-console)
+
+## 目前支持命令
+```
+clear history echo 
+ls grep cd pwd cat 
+mkdir touch cp mv rm vi 
+useradd groupadd
+```
+
+// next 添加自定义命令方案，添加环境变量
