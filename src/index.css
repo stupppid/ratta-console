@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.cv {
+    height: 100vh;
+    width: 100vw;
+    background: black;
+    color: white;
+}
+
+.cv .console-view {
+    border: none;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    word-break: break-all;
+}
+
+.cv .console-view:focus {
+    outline: none;
+}

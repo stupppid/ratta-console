@@ -1,0 +1,24 @@
+.vi-input-bottom {
+    position: fixed;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    background-color: inherit;
+    border: none;
+    color: inherit;
+    border-top: 1px gray solid;
+}
+
+.vi-input-bottom:focus {
+    outline: none;
+}
+
+.vi-input-error {
+    position: fixed;
+    bottom: 17px;
+    display: block;
+    width: 100%;
+    background-color: lightgray;
+    border: none;
+    color: black;
+}
