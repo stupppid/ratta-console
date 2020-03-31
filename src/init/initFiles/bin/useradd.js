@@ -1,5 +1,3 @@
-import * as md5 from "md5";
-
 const helpMsg = `
     -g, --gid GROUP
     The group name of the user's initial login group. The group name must exist. A group number must refer to an already existing group.
@@ -33,7 +31,7 @@ const getConfig = (...args) => {
                 break
             case '-p':
             case '--password':
-                config.password = md5(args.shift())
+                config.password = args.shift()
                 break
             case '-G':
             case '--groups':
