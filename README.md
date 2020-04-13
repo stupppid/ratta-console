@@ -15,5 +15,11 @@ ls grep cd pwd cat
 mkdir touch cp mv rm vi 
 useradd groupadd
 ```
+## 目前支持操作符
+```
+> | &&
+```
 
 // next 添加自定义命令方案，添加环境变量
+
+// 不想写了，做什么程序员呐
