@@ -6,7 +6,7 @@ it's just a simple system, don't be serious  :）
 数据源取自 [ratta](https://www.github.com/stupppid/ratta)
 
 ## 示例
-[ratta-console](https://stupppid.github.io/dist/#ratta-console)
+[ratta-console](https://stupppid.github.io/dist/zh/#ratta-console)
 
 ## 目前支持命令
 ```
